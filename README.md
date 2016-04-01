@@ -17,4 +17,4 @@ During this contest, every team should predict the optimal national and regional
 ### Team
 Fan Wu  
 Bohui Rong  
-YUheng Li  
+Yuheng Li  

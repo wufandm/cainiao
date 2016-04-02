@@ -15,7 +15,7 @@ High quality demand forecast model is the core of supply chain management. In th
 During this contest, every team should predict the optimal national and regional inventory of the next two weeks(2015.12.28-2016.01.10). Meanwhile, we will provide a config file that contains the cost(A) when the predicted inventory is less than the real sales and the cost(B) when the predicted inventory is more than the real sales. According to this file, the total cost will be calculated by the formula below. The target of each team is to achieve the lowest cost. 
 
 ### Team
-Fan Wu  
+Fan Wu  - from IECAS
 
 Bohui Rong
 
